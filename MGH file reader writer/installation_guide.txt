@@ -1,0 +1,19 @@
+installation :
+
+copy the following files into the ImageJ directory
+../ImageJ/plugins/Input-Output
+
+HandleExtraFileTypes.java
+Open_MGH_File_Format.class
+Open_MGH_File_Format.java
+plugins.config
+Save_MGH_File_Format.class
+Save_MGH_File_Format.jar
+Save_MGH_File_Format.java
+
+In ImageJ, compile the following files in the menu
+Plugins >> Compile and Run …
+
+Save_MGH_File_Format.java
+Open_MGH_File_Format.java
+HandleExtraFileTypes.java
