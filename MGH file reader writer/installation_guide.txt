@@ -1,5 +1,7 @@
 installation :
 
+Note: This plugin does not work with Fiji distribution due to their internal structures. 
+
 copy the following files into the ImageJ directory
 ../ImageJ/plugins/Input-Output
 
